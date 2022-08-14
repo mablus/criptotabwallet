@@ -1,0 +1,16 @@
+{
+  "name": "criptowallet",
+  "version": "1.0.0",
+  "description": "new wallet faucet token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brito",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.2"
+  }
+}
